@@ -1,0 +1,4 @@
+export enum STATUS_PERSON {
+  ACTIVE = 'ACTIVO',
+  INACTIVE = 'INACTIVO',
+}
